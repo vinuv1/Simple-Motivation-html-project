@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    margin: 0;
+    font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-size: 20px;
+}
+img{
+    border: 10px solid white;
+    height: 300px;
+    width: 400px;
+}
+h1{
+    margin: 10px;
+    font-size: 55px;
+    color: white;
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+
+#post {
+    margin-top: 40px;
+    text-align: center;
+}
